@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159551243420",
+    "project_id": "hotelbookrecomendation-e7a20",
+    "storage_bucket": "hotelbookrecomendation-e7a20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159551243420:android:389002648bf8cb9453d959",
+        "android_client_info": {
+          "package_name": "com.turquoise.hotelbookrecomendation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159551243420-tp18il5qcllotd3u34fddv8u5423gm95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0G2vJrfYTfjky8VJ4rvNMdGPji1INDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159551243420-tp18il5qcllotd3u34fddv8u5423gm95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
